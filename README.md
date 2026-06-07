@@ -2,8 +2,8 @@
 
 <h2>commands used</h2>
 <hr>
-git init
-git remote add origin _link_
+git init<br>
+git remote add origin _link_<br>
 git remote -v
 
 git branch
