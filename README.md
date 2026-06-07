@@ -1,6 +1,6 @@
 # simple repo pushed from vs-code
 
-<h2>commands used</h2>
+<h3>commands used</h3>
 <hr>
 git init<br>
 git remote add origin _link_<br>
